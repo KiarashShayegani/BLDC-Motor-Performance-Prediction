@@ -31,5 +31,5 @@ The project was executed in three technical phases, each increasing in complexit
 - **Diagnosed and mitigated** a key data challenge: the low-resolution, "steppy" nature of the logged voltage signal, which initially hampered model performance.
 - **Engineered a solution** by applying a moving-average filter and controlled noise, which improved the model's generalization by **~3%** on unseen secondary datasets.
 - **Delivered production-ready assets** including trained `.h5` models, fitted scalers (`.pkl`), and a clean data pipeline.
-
+---
 *This project was conducted in collaboration with the **Sina Robotics Innovation Team - برنانواندیشان سینا** as part of an applied ML research initiative. All the credits for dataset gathering goes to their brilliant team.*
