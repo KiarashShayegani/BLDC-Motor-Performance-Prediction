@@ -2,7 +2,7 @@
 
 **Predicting motor current and voltage from real-world robotic sensor logs using progressive neural network modeling.**
 
-![Project Overview](results/project_overview_diagram.png) *(Create a simple diagram showing the 3-phase progression)*
+![Project Overview](plots/bldc_motor_overview.png)
 
 ## 📖 Project Overview
 This project involved a **multi-phase collaboration** with a robotics engineering team to build predictive models for a Brushless DC (BLDC) motor's operational parameters. Using real, time-series sensor logs, the goal evolved from basic regression to advanced, multi-output neural networks with techniques to handle challenging data artifacts.
